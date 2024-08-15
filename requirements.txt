@@ -1,0 +1,7 @@
+camelot-py[cv]
+ghostscript
+PyPDF2==2.0
+ultralytics
+pytesseract
+PyMuPDF
+openpyxl
